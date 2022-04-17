@@ -1,0 +1,41 @@
+lockfileVersion: 5.3
+
+importers:
+
+  .:
+    specifiers:
+      prettier: ^2.6.2
+      prettier-plugin-package: ^1.3.0
+    dependencies:
+      prettier: 2.6.2
+    devDependencies:
+      prettier-plugin-package: 1.3.0_prettier@2.6.2
+
+  packages/git-patch-parser:
+    specifiers:
+      typescript: ^4.6.3
+    devDependencies:
+      typescript: 4.6.3
+
+packages:
+
+  /prettier-plugin-package/1.3.0_prettier@2.6.2:
+    resolution: {integrity: sha512-KPNHR/Jm2zTevBp1SnjzMnooO1BOQW2bixVbOp8flOJoW+dxdDwEncObfsKZdkjwrv6AIH4oWqm5EO/etDmK9Q==}
+    engines: {node: '>=10.13.0'}
+    peerDependencies:
+      prettier: ^2.0.0
+    dependencies:
+      prettier: 2.6.2
+    dev: true
+
+  /prettier/2.6.2:
+    resolution: {integrity: sha512-PkUpF+qoXTqhOeWL9fu7As8LXsIUZ1WYaJiY/a7McAQzxjk82OF0tibkFXVCDImZtWxbvojFjerkiLb0/q8mew==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: false
+
+  /typescript/4.6.3:
+    resolution: {integrity: sha512-yNIatDa5iaofVozS/uQJEl3JRWLKKGJKh6Yaiv0GLGSuhpFJe7P3SbHZ8/yjAHRQwKRoA6YZqlfjXWmVzoVSMw==}
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+    dev: true
