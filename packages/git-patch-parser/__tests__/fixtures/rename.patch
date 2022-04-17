@@ -1,0 +1,4 @@
+diff --git a/package.json b/packages.json
+similarity index 100%
+rename from package.json
+rename to packages.json

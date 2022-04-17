@@ -1,0 +1,16 @@
+diff --git a/package.json b/packages.json
+similarity index 84%
+rename from package.json
+rename to packages.json
+index 4485ec5..d2ae972 100644
+--- a/package.json
++++ b/packages.json
+@@ -10,5 +10,8 @@
+   "license": "ISC",
+   "devDependencies": {
+     "prettier": "^2.6.1"
++  },
++  "dependencies": {
++    "vue": "^2.6.10"
+   }
+ }

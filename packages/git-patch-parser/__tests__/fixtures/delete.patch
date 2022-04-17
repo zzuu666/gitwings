@@ -1,0 +1,20 @@
+diff --git a/package.json b/package.json
+deleted file mode 100644
+index 4485ec5..0000000
+--- a/package.json
++++ /dev/null
+@@ -1,14 +0,0 @@
+-{
+-  "name": "vue-design",
+-  "version": "1.0.0",
+-  "description": "",
+-  "main": "index.js",
+-  "scripts": {
+-    "test": "echo \"Error: no test specified\" && exit 1"
+-  },
+-  "author": "",
+-  "license": "ISC",
+-  "devDependencies": {
+-    "prettier": "^2.6.1"
+-  }
+-}

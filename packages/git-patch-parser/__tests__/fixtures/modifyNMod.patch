@@ -1,0 +1,13 @@
+diff --git a/package.json b/package.json
+old mode 100644
+new mode 100755
+index 4485ec5..8ffd444
+--- a/package.json
++++ b/package.json
+@@ -1,5 +1,5 @@
+ {
+-  "name": "vue-design",
++  "name": "vue",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
