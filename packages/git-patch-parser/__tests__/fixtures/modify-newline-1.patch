@@ -1,0 +1,9 @@
+diff --git a/packages/zue-reactive/src/index.ts b/packages/zue-reactive/src/index.ts
+index 82935e9..01c3325 100644
+--- a/packages/zue-reactive/src/index.ts
++++ b/packages/zue-reactive/src/index.ts
+@@ -1,2 +1,2 @@
+ export { effect } from './effect'
+-export { reactive } from './reactive'
+\ No newline at end of file
++export { reactive } from './reactive'

@@ -1,0 +1,37 @@
+{
+  "header": {
+    "raw": "diff --git a/packages/zue-reactive/src/batch.ts b/packages/zue-reactive/src/batch.ts\nnew file mode 100644\nindex 0000000..e9c0588\n--- /dev/null\n+++ b/packages/zue-reactive/src/batch.ts",
+    "fromPath": null,
+    "toPath": "packages/zue-reactive/src/batch.ts",
+    "fromRevision": "0000000",
+    "toRevision": "e9c0588",
+    "type": "addition",
+    "fromMode": null,
+    "toMode": 100644,
+    "similarity": null,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [
+    {
+      "header": {
+        "raw": "@@ -0,0 +1 @@",
+        "fromLineStart": 0,
+        "fromLineCount": 0,
+        "toLineStart": 1,
+        "toLineCount": 1,
+        "funcname": ""
+      },
+      "fromLines": [],
+      "toLines": [
+        {
+          "content": "import { Scheduler } from './effect'",
+          "lineNumber": 1,
+          "type": "added"
+        }
+      ]
+    }
+  ],
+  "fromNoNewline": false,
+  "toNoNewline": true
+}

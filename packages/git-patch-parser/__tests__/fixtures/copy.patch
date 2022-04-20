@@ -1,0 +1,4 @@
+diff --git a/packages/zue-reactive/src/effect.ts b/packages/zue-reactive/src/effect copy.ts
+similarity index 100%
+copy from packages/zue-reactive/src/effect.ts
+copy to packages/zue-reactive/src/effect copy.ts

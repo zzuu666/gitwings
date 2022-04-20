@@ -1,0 +1,53 @@
+{
+  "header": {
+    "raw": "diff --git a/packages/zue-reactive/src/index.ts b/packages/zue-reactive/src/index.ts\nindex 82935e9..01c3325 100644\n--- a/packages/zue-reactive/src/index.ts\n+++ b/packages/zue-reactive/src/index.ts",
+    "fromPath": "packages/zue-reactive/src/index.ts",
+    "toPath": "packages/zue-reactive/src/index.ts",
+    "fromRevision": "82935e9",
+    "toRevision": "01c3325",
+    "type": "modification",
+    "fromMode": 100644,
+    "toMode": 100644,
+    "similarity": null,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [
+    {
+      "header": {
+        "raw": "@@ -1,2 +1,2 @@",
+        "fromLineStart": 1,
+        "fromLineCount": 2,
+        "toLineStart": 1,
+        "toLineCount": 2,
+        "funcname": ""
+      },
+      "fromLines": [
+        {
+          "content": "export { effect } from './effect'",
+          "lineNumber": 1,
+          "type": "common"
+        },
+        {
+          "content": "export { reactive } from './reactive'",
+          "lineNumber": 2,
+          "type": "deleted"
+        }
+      ],
+      "toLines": [
+        {
+          "content": "export { effect } from './effect'",
+          "lineNumber": 1,
+          "type": "common"
+        },
+        {
+          "content": "export { reactive } from './reactive'",
+          "lineNumber": 2,
+          "type": "added"
+        }
+      ]
+    }
+  ],
+  "fromNoNewline": true,
+  "toNoNewline": false
+}

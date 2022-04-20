@@ -1,0 +1,1073 @@
+{
+  "header": {
+    "raw": "diff --git a/pa.txt b/pa.txt\ndissimilarity index 62%\nindex ecde5f0..852cbd9 100644\n--- a/pa.txt\n+++ b/pa.txt",
+    "fromPath": "pa.txt",
+    "toPath": "pa.txt",
+    "fromRevision": "ecde5f0",
+    "toRevision": "852cbd9",
+    "type": "modification",
+    "fromMode": 100644,
+    "toMode": 100644,
+    "similarity": null,
+    "dissimilarity": 62,
+    "isBinary": false
+  },
+  "hunks": [
+    {
+      "header": {
+        "raw": "@@ -1,128 +1,80 @@",
+        "fromLineStart": 1,
+        "fromLineCount": 128,
+        "toLineStart": 1,
+        "toLineCount": 80,
+        "funcname": ""
+      },
+      "fromLines": [
+        {
+          "content": "aaa",
+          "lineNumber": 1,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 2,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 3,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 4,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 5,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 6,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 7,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 8,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 9,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 10,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 11,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 12,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 13,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 14,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 15,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 16,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 17,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 18,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 19,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 20,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 21,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 22,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 23,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 24,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 25,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 26,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 27,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 28,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 29,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 30,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 31,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 32,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 33,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 34,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 35,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 36,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 37,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 38,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 39,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 40,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 41,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 42,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 43,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 44,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 45,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 46,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 47,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 48,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 49,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 50,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 51,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 52,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 53,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 54,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 55,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 56,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 57,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 58,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 59,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 60,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 61,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 62,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 63,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 64,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 65,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 66,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 67,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 68,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 69,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 70,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 71,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 72,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 73,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 74,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 75,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 76,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 77,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 78,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 79,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 80,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 81,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 82,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 83,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 84,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 85,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 86,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 87,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 88,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 89,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 90,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 91,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 92,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 93,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 94,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 95,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 96,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 97,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 98,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 99,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 100,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 101,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 102,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 103,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 104,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 105,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 106,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 107,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 108,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 109,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 110,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 111,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 112,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 113,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 114,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 115,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 116,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 117,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 118,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 119,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 120,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 121,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 122,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 123,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 124,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 125,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 126,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 127,
+          "type": "deleted"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 128,
+          "type": "deleted"
+        }
+      ],
+      "toLines": [
+        {
+          "content": "aaa",
+          "lineNumber": 1,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 2,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 3,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 4,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 5,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 6,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 7,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 8,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 9,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 10,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 11,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 12,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 13,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 14,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 15,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 16,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 17,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 18,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 19,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 20,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 21,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 22,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 23,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 24,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 25,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 26,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 27,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 28,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 29,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 30,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 31,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 32,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 33,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 34,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 35,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 36,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 37,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 38,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 39,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 40,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 41,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 42,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 43,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 44,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 45,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 46,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 47,
+          "type": "added"
+        },
+        {
+          "content": "aaa",
+          "lineNumber": 48,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 49,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 50,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 51,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 52,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 53,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 54,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 55,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 56,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 57,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 58,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 59,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 60,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 61,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 62,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 63,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 64,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 65,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 66,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 67,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 68,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 69,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 70,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 71,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 72,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 73,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 74,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 75,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 76,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 77,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 78,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 79,
+          "type": "added"
+        },
+        {
+          "content": "n",
+          "lineNumber": 80,
+          "type": "added"
+        }
+      ]
+    }
+  ],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}

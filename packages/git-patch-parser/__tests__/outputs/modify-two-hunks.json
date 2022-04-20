@@ -1,0 +1,187 @@
+{
+  "header": {
+    "raw": "diff --git a/packages/ui-diff-view/src/table/Diff/Diff.tsx b/packages/ui-diff-view/src/table/Diff/Diff.tsx\nindex 1e8dcf9..efea947 100644\n--- a/packages/ui-diff-view/src/table/Diff/Diff.tsx\n+++ b/packages/ui-diff-view/src/table/Diff/Diff.tsx",
+    "fromPath": "packages/ui-diff-view/src/table/Diff/Diff.tsx",
+    "toPath": "packages/ui-diff-view/src/table/Diff/Diff.tsx",
+    "fromRevision": "1e8dcf9",
+    "toRevision": "efea947",
+    "type": "modification",
+    "fromMode": 100644,
+    "toMode": 100644,
+    "similarity": null,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [
+    {
+      "header": {
+        "raw": "@@ -14,7 +14,7 @@ export const Diff: FC<DiffProps> = (props) => {",
+        "fromLineStart": 14,
+        "fromLineCount": 7,
+        "toLineStart": 14,
+        "toLineCount": 7,
+        "funcname": "export const Diff: FC<DiffProps> = (props) => {"
+      },
+      "fromLines": [
+        {
+          "content": "  )",
+          "lineNumber": 14,
+          "type": "common"
+        },
+        {
+          "content": "",
+          "lineNumber": 15,
+          "type": "common"
+        },
+        {
+          "content": "  const colgroup = useMemo(() => {",
+          "lineNumber": 16,
+          "type": "common"
+        },
+        {
+          "content": "    if (diffType === 'split') {",
+          "lineNumber": 17,
+          "type": "deleted"
+        },
+        {
+          "content": "      return (",
+          "lineNumber": 18,
+          "type": "common"
+        },
+        {
+          "content": "        <colgroup>",
+          "lineNumber": 19,
+          "type": "common"
+        },
+        {
+          "content": "          <col className=\"diff-gutter-col\" />",
+          "lineNumber": 20,
+          "type": "common"
+        }
+      ],
+      "toLines": [
+        {
+          "content": "  )",
+          "lineNumber": 14,
+          "type": "common"
+        },
+        {
+          "content": "",
+          "lineNumber": 15,
+          "type": "common"
+        },
+        {
+          "content": "  const colgroup = useMemo(() => {",
+          "lineNumber": 16,
+          "type": "common"
+        },
+        {
+          "content": "    if (diffType === 'splited') {",
+          "lineNumber": 17,
+          "type": "added"
+        },
+        {
+          "content": "      return (",
+          "lineNumber": 18,
+          "type": "common"
+        },
+        {
+          "content": "        <colgroup>",
+          "lineNumber": 19,
+          "type": "common"
+        },
+        {
+          "content": "          <col className=\"diff-gutter-col\" />",
+          "lineNumber": 20,
+          "type": "common"
+        }
+      ]
+    },
+    {
+      "header": {
+        "raw": "@@ -38,7 +38,7 @@ export const Diff: FC<DiffProps> = (props) => {",
+        "fromLineStart": 38,
+        "fromLineCount": 7,
+        "toLineStart": 38,
+        "toLineCount": 7,
+        "funcname": "export const Diff: FC<DiffProps> = (props) => {"
+      },
+      "fromLines": [
+        {
+          "content": "",
+          "lineNumber": 38,
+          "type": "common"
+        },
+        {
+          "content": "  return (",
+          "lineNumber": 39,
+          "type": "common"
+        },
+        {
+          "content": "    <DiffOptionsProvider value={memoOptions}>",
+          "lineNumber": 40,
+          "type": "common"
+        },
+        {
+          "content": "      <table className=\"diff-table\" onMouseDown={optimizeSelection ? handleMouseDown : undefined}>",
+          "lineNumber": 41,
+          "type": "deleted"
+        },
+        {
+          "content": "        {colgroup}",
+          "lineNumber": 42,
+          "type": "common"
+        },
+        {
+          "content": "        <tbody>{children}</tbody>",
+          "lineNumber": 43,
+          "type": "common"
+        },
+        {
+          "content": "      </table>",
+          "lineNumber": 44,
+          "type": "common"
+        }
+      ],
+      "toLines": [
+        {
+          "content": "",
+          "lineNumber": 38,
+          "type": "common"
+        },
+        {
+          "content": "  return (",
+          "lineNumber": 39,
+          "type": "common"
+        },
+        {
+          "content": "    <DiffOptionsProvider value={memoOptions}>",
+          "lineNumber": 40,
+          "type": "common"
+        },
+        {
+          "content": "      <table className=\"diff-tabled\" onMouseDown={optimizeSelection ? handleMouseDown : undefined}>",
+          "lineNumber": 41,
+          "type": "added"
+        },
+        {
+          "content": "        {colgroup}",
+          "lineNumber": 42,
+          "type": "common"
+        },
+        {
+          "content": "        <tbody>{children}</tbody>",
+          "lineNumber": 43,
+          "type": "common"
+        },
+        {
+          "content": "      </table>",
+          "lineNumber": 44,
+          "type": "common"
+        }
+      ]
+    }
+  ],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}

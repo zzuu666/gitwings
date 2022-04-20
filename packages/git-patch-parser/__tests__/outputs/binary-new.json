@@ -1,0 +1,18 @@
+{
+  "header": {
+    "raw": "diff --git a/packages/zue-reactive/package.json alias b/packages/zue-reactive/package.json alias\nnew file mode 100644\nindex 0000000..f8fc95c\nBinary files /dev/null and b/packages/zue-reactive/package.json alias differ\n",
+    "fromPath": null,
+    "toPath": "packages/zue-reactive/package.json alias",
+    "fromRevision": "0000000",
+    "toRevision": "f8fc95c",
+    "type": "addition",
+    "fromMode": null,
+    "toMode": 100644,
+    "similarity": null,
+    "dissimilarity": null,
+    "isBinary": true
+  },
+  "hunks": [],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}

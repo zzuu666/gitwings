@@ -1,0 +1,22 @@
+diff --git a/packages/ui-diff-view/src/table/Diff/Diff.tsx b/packages/ui-diff-view/src/table/Diff/Diff.tsx
+index 1e8dcf9..efea947 100644
+--- a/packages/ui-diff-view/src/table/Diff/Diff.tsx
++++ b/packages/ui-diff-view/src/table/Diff/Diff.tsx
+@@ -14,7 +14,7 @@ export const Diff: FC<DiffProps> = (props) => {
+   )
+ 
+   const colgroup = useMemo(() => {
+-    if (diffType === 'split') {
++    if (diffType === 'splited') {
+       return (
+         <colgroup>
+           <col className="diff-gutter-col" />
+@@ -38,7 +38,7 @@ export const Diff: FC<DiffProps> = (props) => {
+ 
+   return (
+     <DiffOptionsProvider value={memoOptions}>
+-      <table className="diff-table" onMouseDown={optimizeSelection ? handleMouseDown : undefined}>
++      <table className="diff-tabled" onMouseDown={optimizeSelection ? handleMouseDown : undefined}>
+         {colgroup}
+         <tbody>{children}</tbody>
+       </table>

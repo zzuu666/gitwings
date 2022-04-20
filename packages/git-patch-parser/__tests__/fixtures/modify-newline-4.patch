@@ -1,0 +1,11 @@
+diff --git a/packages/zue-reactive/src/effect.ts b/packages/zue-reactive/src/effect.ts
+index 74aaddf..3ef74dc 100644
+--- a/packages/zue-reactive/src/effect.ts
++++ b/packages/zue-reactive/src/effect.ts
+@@ -42,5 +42,5 @@ const cleanup = (effectFn: EffectFn) => {
+     const depSet = deps[i]
+     depSet.delete(effectFn)
+   }
+-  deps.length = 0
++  // deps.length = 0
+ }

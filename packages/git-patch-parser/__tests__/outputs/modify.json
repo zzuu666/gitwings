@@ -1,0 +1,98 @@
+{
+  "header": {
+    "raw": "diff --git a/.editorconfig b/.editorconfig\nindex 5d47c21..075cc45 100644\n--- a/.editorconfig\n+++ b/.editorconfig",
+    "fromPath": ".editorconfig",
+    "toPath": ".editorconfig",
+    "fromRevision": "5d47c21",
+    "toRevision": "075cc45",
+    "type": "modification",
+    "fromMode": 100644,
+    "toMode": 100644,
+    "similarity": null,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [
+    {
+      "header": {
+        "raw": "@@ -5,7 +5,6 @@ root = true",
+        "fromLineStart": 5,
+        "fromLineCount": 7,
+        "toLineStart": 5,
+        "toLineCount": 6,
+        "funcname": "root = true"
+      },
+      "fromLines": [
+        {
+          "content": "",
+          "lineNumber": 5,
+          "type": "common"
+        },
+        {
+          "content": "[*]",
+          "lineNumber": 6,
+          "type": "common"
+        },
+        {
+          "content": "indent_style = space",
+          "lineNumber": 7,
+          "type": "common"
+        },
+        {
+          "content": "indent_size = 2",
+          "lineNumber": 8,
+          "type": "deleted"
+        },
+        {
+          "content": "end_of_line = lf",
+          "lineNumber": 9,
+          "type": "common"
+        },
+        {
+          "content": "charset = utf-8",
+          "lineNumber": 10,
+          "type": "common"
+        },
+        {
+          "content": "trim_trailing_whitespace = true",
+          "lineNumber": 11,
+          "type": "common"
+        }
+      ],
+      "toLines": [
+        {
+          "content": "",
+          "lineNumber": 5,
+          "type": "common"
+        },
+        {
+          "content": "[*]",
+          "lineNumber": 6,
+          "type": "common"
+        },
+        {
+          "content": "indent_style = space",
+          "lineNumber": 7,
+          "type": "common"
+        },
+        {
+          "content": "end_of_line = lf",
+          "lineNumber": 8,
+          "type": "common"
+        },
+        {
+          "content": "charset = utf-8",
+          "lineNumber": 9,
+          "type": "common"
+        },
+        {
+          "content": "trim_trailing_whitespace = true",
+          "lineNumber": 10,
+          "type": "common"
+        }
+      ]
+    }
+  ],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}

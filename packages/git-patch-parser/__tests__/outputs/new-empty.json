@@ -1,0 +1,18 @@
+{
+  "header": {
+    "raw": "diff --git a/a.txt b/a.txt\nnew file mode 100644\nindex 0000000..e69de29\n",
+    "fromPath": null,
+    "toPath": "a.txt",
+    "fromRevision": "0000000",
+    "toRevision": "e69de29",
+    "type": "addition",
+    "fromMode": null,
+    "toMode": 100644,
+    "similarity": null,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}

@@ -1,0 +1,102 @@
+{
+  "header": {
+    "raw": "diff --git a/package.json b/package.json\ndeleted file mode 100644\nindex 4485ec5..0000000\n--- a/package.json\n+++ /dev/null",
+    "fromPath": "package.json",
+    "toPath": null,
+    "fromRevision": "4485ec5",
+    "toRevision": "0000000",
+    "type": "deletion",
+    "fromMode": 100644,
+    "toMode": null,
+    "similarity": null,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [
+    {
+      "header": {
+        "raw": "@@ -1,14 +0,0 @@",
+        "fromLineStart": 1,
+        "fromLineCount": 14,
+        "toLineStart": 0,
+        "toLineCount": 0,
+        "funcname": ""
+      },
+      "fromLines": [
+        {
+          "content": "{",
+          "lineNumber": 1,
+          "type": "deleted"
+        },
+        {
+          "content": "  \"name\": \"vue-design\",",
+          "lineNumber": 2,
+          "type": "deleted"
+        },
+        {
+          "content": "  \"version\": \"1.0.0\",",
+          "lineNumber": 3,
+          "type": "deleted"
+        },
+        {
+          "content": "  \"description\": \"\",",
+          "lineNumber": 4,
+          "type": "deleted"
+        },
+        {
+          "content": "  \"main\": \"index.js\",",
+          "lineNumber": 5,
+          "type": "deleted"
+        },
+        {
+          "content": "  \"scripts\": {",
+          "lineNumber": 6,
+          "type": "deleted"
+        },
+        {
+          "content": "    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"",
+          "lineNumber": 7,
+          "type": "deleted"
+        },
+        {
+          "content": "  },",
+          "lineNumber": 8,
+          "type": "deleted"
+        },
+        {
+          "content": "  \"author\": \"\",",
+          "lineNumber": 9,
+          "type": "deleted"
+        },
+        {
+          "content": "  \"license\": \"ISC\",",
+          "lineNumber": 10,
+          "type": "deleted"
+        },
+        {
+          "content": "  \"devDependencies\": {",
+          "lineNumber": 11,
+          "type": "deleted"
+        },
+        {
+          "content": "    \"prettier\": \"^2.6.1\"",
+          "lineNumber": 12,
+          "type": "deleted"
+        },
+        {
+          "content": "  }",
+          "lineNumber": 13,
+          "type": "deleted"
+        },
+        {
+          "content": "}",
+          "lineNumber": 14,
+          "type": "deleted"
+        }
+      ],
+      "toLines": []
+    }
+  ],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}

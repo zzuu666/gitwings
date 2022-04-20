@@ -1,0 +1,18 @@
+{
+  "header": {
+    "raw": "diff --git a/package.json b/package.json\nold mode 100644\nnew mode 100755\n",
+    "fromPath": "package.json",
+    "toPath": "package.json",
+    "fromRevision": "",
+    "toRevision": "",
+    "type": "modification",
+    "fromMode": 100644,
+    "toMode": 100755,
+    "similarity": null,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}

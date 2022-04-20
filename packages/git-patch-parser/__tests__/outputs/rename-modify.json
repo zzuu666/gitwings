@@ -1,0 +1,98 @@
+{
+  "header": {
+    "raw": "diff --git a/package.json b/packages.json\nsimilarity index 84%\nrename from package.json\nrename to packages.json\nindex 4485ec5..d2ae972 100644\n--- a/package.json\n+++ b/packages.json",
+    "fromPath": "package.json",
+    "toPath": "packages.json",
+    "fromRevision": "4485ec5",
+    "toRevision": "d2ae972",
+    "type": "renaming",
+    "fromMode": 100644,
+    "toMode": 100644,
+    "similarity": 84,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [
+    {
+      "header": {
+        "raw": "@@ -10,5 +10,8 @@",
+        "fromLineStart": 10,
+        "fromLineCount": 5,
+        "toLineStart": 10,
+        "toLineCount": 8,
+        "funcname": ""
+      },
+      "fromLines": [
+        {
+          "content": "  \"license\": \"ISC\",",
+          "lineNumber": 10,
+          "type": "common"
+        },
+        {
+          "content": "  \"devDependencies\": {",
+          "lineNumber": 11,
+          "type": "common"
+        },
+        {
+          "content": "    \"prettier\": \"^2.6.1\"",
+          "lineNumber": 12,
+          "type": "common"
+        },
+        {
+          "content": "  }",
+          "lineNumber": 13,
+          "type": "common"
+        },
+        {
+          "content": "}",
+          "lineNumber": 14,
+          "type": "common"
+        }
+      ],
+      "toLines": [
+        {
+          "content": "  \"license\": \"ISC\",",
+          "lineNumber": 10,
+          "type": "common"
+        },
+        {
+          "content": "  \"devDependencies\": {",
+          "lineNumber": 11,
+          "type": "common"
+        },
+        {
+          "content": "    \"prettier\": \"^2.6.1\"",
+          "lineNumber": 12,
+          "type": "common"
+        },
+        {
+          "content": "  },",
+          "lineNumber": 13,
+          "type": "added"
+        },
+        {
+          "content": "  \"dependencies\": {",
+          "lineNumber": 14,
+          "type": "added"
+        },
+        {
+          "content": "    \"vue\": \"^2.6.10\"",
+          "lineNumber": 15,
+          "type": "added"
+        },
+        {
+          "content": "  }",
+          "lineNumber": 16,
+          "type": "common"
+        },
+        {
+          "content": "}",
+          "lineNumber": 17,
+          "type": "common"
+        }
+      ]
+    }
+  ],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}

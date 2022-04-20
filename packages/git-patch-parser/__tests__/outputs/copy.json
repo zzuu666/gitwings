@@ -1,0 +1,18 @@
+{
+  "header": {
+    "raw": "diff --git a/packages/zue-reactive/src/effect.ts b/packages/zue-reactive/src/effect copy.ts\nsimilarity index 100%\ncopy from packages/zue-reactive/src/effect.ts\ncopy to packages/zue-reactive/src/effect copy.ts\n",
+    "fromPath": "packages/zue-reactive/src/effect.ts",
+    "toPath": "packages/zue-reactive/src/effect copy.ts",
+    "fromRevision": "",
+    "toRevision": "",
+    "type": "copy",
+    "fromMode": null,
+    "toMode": null,
+    "similarity": 100,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}

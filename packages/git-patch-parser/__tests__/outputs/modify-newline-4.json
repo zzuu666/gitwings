@@ -1,0 +1,83 @@
+{
+  "header": {
+    "raw": "diff --git a/packages/zue-reactive/src/effect.ts b/packages/zue-reactive/src/effect.ts\nindex 74aaddf..3ef74dc 100644\n--- a/packages/zue-reactive/src/effect.ts\n+++ b/packages/zue-reactive/src/effect.ts",
+    "fromPath": "packages/zue-reactive/src/effect.ts",
+    "toPath": "packages/zue-reactive/src/effect.ts",
+    "fromRevision": "74aaddf",
+    "toRevision": "3ef74dc",
+    "type": "modification",
+    "fromMode": 100644,
+    "toMode": 100644,
+    "similarity": null,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [
+    {
+      "header": {
+        "raw": "@@ -42,5 +42,5 @@ const cleanup = (effectFn: EffectFn) => {",
+        "fromLineStart": 42,
+        "fromLineCount": 5,
+        "toLineStart": 42,
+        "toLineCount": 5,
+        "funcname": "const cleanup = (effectFn: EffectFn) => {"
+      },
+      "fromLines": [
+        {
+          "content": "    const depSet = deps[i]",
+          "lineNumber": 42,
+          "type": "common"
+        },
+        {
+          "content": "    depSet.delete(effectFn)",
+          "lineNumber": 43,
+          "type": "common"
+        },
+        {
+          "content": "  }",
+          "lineNumber": 44,
+          "type": "common"
+        },
+        {
+          "content": "  deps.length = 0",
+          "lineNumber": 45,
+          "type": "deleted"
+        },
+        {
+          "content": "}",
+          "lineNumber": 46,
+          "type": "common"
+        }
+      ],
+      "toLines": [
+        {
+          "content": "    const depSet = deps[i]",
+          "lineNumber": 42,
+          "type": "common"
+        },
+        {
+          "content": "    depSet.delete(effectFn)",
+          "lineNumber": 43,
+          "type": "common"
+        },
+        {
+          "content": "  }",
+          "lineNumber": 44,
+          "type": "common"
+        },
+        {
+          "content": "  // deps.length = 0",
+          "lineNumber": 45,
+          "type": "added"
+        },
+        {
+          "content": "}",
+          "lineNumber": 46,
+          "type": "common"
+        }
+      ]
+    }
+  ],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}

@@ -1,0 +1,18 @@
+{
+  "header": {
+    "raw": "diff --git a/package.json b/packages.json\nsimilarity index 100%\nrename from package.json\nrename to packages.json\n",
+    "fromPath": "package.json",
+    "toPath": "packages.json",
+    "fromRevision": "",
+    "toRevision": "",
+    "type": "renaming",
+    "fromMode": null,
+    "toMode": null,
+    "similarity": 100,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}

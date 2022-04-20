@@ -1,0 +1,12 @@
+diff --git a/packages/zue-reactive/jest.config.js b/packages/zue-reactive/jest.config.js
+index 8cbf894..5fa41b8 100644
+--- a/packages/zue-reactive/jest.config.js
++++ b/packages/zue-reactive/jest.config.js
+@@ -1,5 +1,5 @@
+ /** @type {import('ts-jest/dist/types').InitialOptionsTsJest} */
+ module.exports = {
+-  preset: 'ts-jest',
++  // preset: 'ts-jest',
+   testEnvironment: 'node',
+ };
+\ No newline at end of file

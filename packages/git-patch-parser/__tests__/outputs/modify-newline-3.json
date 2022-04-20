@@ -1,0 +1,83 @@
+{
+  "header": {
+    "raw": "diff --git a/packages/zue-reactive/jest.config.js b/packages/zue-reactive/jest.config.js\nindex 8cbf894..5fa41b8 100644\n--- a/packages/zue-reactive/jest.config.js\n+++ b/packages/zue-reactive/jest.config.js",
+    "fromPath": "packages/zue-reactive/jest.config.js",
+    "toPath": "packages/zue-reactive/jest.config.js",
+    "fromRevision": "8cbf894",
+    "toRevision": "5fa41b8",
+    "type": "modification",
+    "fromMode": 100644,
+    "toMode": 100644,
+    "similarity": null,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [
+    {
+      "header": {
+        "raw": "@@ -1,5 +1,5 @@",
+        "fromLineStart": 1,
+        "fromLineCount": 5,
+        "toLineStart": 1,
+        "toLineCount": 5,
+        "funcname": ""
+      },
+      "fromLines": [
+        {
+          "content": "/** @type {import('ts-jest/dist/types').InitialOptionsTsJest} */",
+          "lineNumber": 1,
+          "type": "common"
+        },
+        {
+          "content": "module.exports = {",
+          "lineNumber": 2,
+          "type": "common"
+        },
+        {
+          "content": "  preset: 'ts-jest',",
+          "lineNumber": 3,
+          "type": "deleted"
+        },
+        {
+          "content": "  testEnvironment: 'node',",
+          "lineNumber": 4,
+          "type": "common"
+        },
+        {
+          "content": "};",
+          "lineNumber": 5,
+          "type": "common"
+        }
+      ],
+      "toLines": [
+        {
+          "content": "/** @type {import('ts-jest/dist/types').InitialOptionsTsJest} */",
+          "lineNumber": 1,
+          "type": "common"
+        },
+        {
+          "content": "module.exports = {",
+          "lineNumber": 2,
+          "type": "common"
+        },
+        {
+          "content": "  // preset: 'ts-jest',",
+          "lineNumber": 3,
+          "type": "added"
+        },
+        {
+          "content": "  testEnvironment: 'node',",
+          "lineNumber": 4,
+          "type": "common"
+        },
+        {
+          "content": "};",
+          "lineNumber": 5,
+          "type": "common"
+        }
+      ]
+    }
+  ],
+  "fromNoNewline": true,
+  "toNoNewline": true
+}

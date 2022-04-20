@@ -1,0 +1,83 @@
+{
+  "header": {
+    "raw": "diff --git a/package.json b/package.json\nold mode 100644\nnew mode 100755\nindex 4485ec5..8ffd444\n--- a/package.json\n+++ b/package.json",
+    "fromPath": "package.json",
+    "toPath": "package.json",
+    "fromRevision": "4485ec5",
+    "toRevision": "8ffd444",
+    "type": "modification",
+    "fromMode": 100644,
+    "toMode": 100755,
+    "similarity": null,
+    "dissimilarity": null,
+    "isBinary": false
+  },
+  "hunks": [
+    {
+      "header": {
+        "raw": "@@ -1,5 +1,5 @@",
+        "fromLineStart": 1,
+        "fromLineCount": 5,
+        "toLineStart": 1,
+        "toLineCount": 5,
+        "funcname": ""
+      },
+      "fromLines": [
+        {
+          "content": "{",
+          "lineNumber": 1,
+          "type": "common"
+        },
+        {
+          "content": "  \"name\": \"vue-design\",",
+          "lineNumber": 2,
+          "type": "deleted"
+        },
+        {
+          "content": "  \"version\": \"1.0.0\",",
+          "lineNumber": 3,
+          "type": "common"
+        },
+        {
+          "content": "  \"description\": \"\",",
+          "lineNumber": 4,
+          "type": "common"
+        },
+        {
+          "content": "  \"main\": \"index.js\",",
+          "lineNumber": 5,
+          "type": "common"
+        }
+      ],
+      "toLines": [
+        {
+          "content": "{",
+          "lineNumber": 1,
+          "type": "common"
+        },
+        {
+          "content": "  \"name\": \"vue\",",
+          "lineNumber": 2,
+          "type": "added"
+        },
+        {
+          "content": "  \"version\": \"1.0.0\",",
+          "lineNumber": 3,
+          "type": "common"
+        },
+        {
+          "content": "  \"description\": \"\",",
+          "lineNumber": 4,
+          "type": "common"
+        },
+        {
+          "content": "  \"main\": \"index.js\",",
+          "lineNumber": 5,
+          "type": "common"
+        }
+      ]
+    }
+  ],
+  "fromNoNewline": false,
+  "toNoNewline": false
+}
