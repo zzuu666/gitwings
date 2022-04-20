@@ -1,4 +1,4 @@
-import { Patch, PatchHeader, HunkHeader, Hunk, ChangeType, NoEndingNewLine } from './interface'
+import { Patch, PatchHeader, HunkHeader, Hunk, NoEndingNewLine } from './interface'
 
 export const parsePatchHeader = (headerLines: string[]): PatchHeader => {
   const patchHeader: PatchHeader = {
